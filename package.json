@@ -1,0 +1,16 @@
+{
+  "name": "com.heax3.object-pooling-unity",
+  "version": "1.0.0",
+  "displayName": "Object Pooling",
+  "description": "Utility to pool instantiated game objects.",
+  "unity": "2022.3",
+  "unityRelease": "12f1",
+  "documentationUrl": "https://github.com/HeaX3/object-pooling-unity",
+  "licensesUrl": "https://github.com/HeaX3/object-pooling-unity/LICENSE",
+  "keywords": [],
+  "author": {
+    "name": "HeaX3",
+    "email": "heax@moonsama.com",
+    "url": "https://www.moonsama.com"
+  }
+}
